@@ -7,6 +7,8 @@ echo Press Any Key To Start Repair.
 pause > nul
 cls
 sfc /scannow
+echo Press Any Key to Clear Result.
+pause > nul
 cls
 DISM.exe /Online /Cleanup-image /Restorehealth
 cls

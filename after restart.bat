@@ -7,7 +7,6 @@ echo Press Any Key To Start Repair.
 pause > nul
 cls
 sfc /scannow
-cls
 echo Press Any Key To Restart. Then Enjoy Your Machine.
 echo.
 pause > nul
